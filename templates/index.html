@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Analyzer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        #result {
+            margin-top: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            margin-bottom: 10px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>File Analyzer</h1>
+    <form id="uploadForm">
+        <input type="file" id="fileInput" accept=".txt,.pdf,.doc,.docx" required>
+        <button type="submit">Upload and Analyze</button>
+    </form>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            var formData = new FormData();
+            var fileInput = document.getElementById('fileInput');
+            formData.append('file', fileInput.files[0]);
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                var resultDiv = document.getElementById('result');
+                resultDiv.innerHTML = '';
+
+                if (data.error) {
+                    resultDiv.innerHTML = `<p style="color: red;">Error: ${data.error}</p>`;
+                } else {
+                    ['relevant', 'irrelevant', 'flagged'].forEach(category => {
+                        if (data[category] && data[category].length > 0) {
+                            var section = document.createElement('div');
+                            section.className = 'section';
+                            section.innerHTML = `
+                                <h2>${category.charAt(0).toUpperCase() + category.slice(1)} Sentences</h2>
+                                <ul>
+                                    ${data[category].map(sentence => `<li>${sentence}</li>`).join('')}
+                                </ul>
+                            `;
+                            resultDiv.appendChild(section);
+                        }
+                    });
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('result').innerHTML = '<p style="color: red;">An error occurred while processing the file.</p>';
+            });
+        });
+    </script>
+</body>
+</html>

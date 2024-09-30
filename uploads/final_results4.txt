@@ -1,0 +1,134 @@
+Annotated Original Sentences:
+
+Relevant Sentences:
+[RELEVANT] Hello everyone, so let's start module 1 introduction to ethical hacking here
+[RELEVANT] So before jumping into hacking and ethical hacking concepts, let us know what is cyber security is here
+[RELEVANT] So let me help you with the basic terminologies
+[RELEVANT] So first thing is cyber security
+[RELEVANT] Guys, it is nothing but the practice of protecting sensitive information as well as your critical system from cyber attacks or digital attacks
+[RELEVANT] We also have so many further categories
+[RELEVANT] We have network security
+[RELEVANT] We have application security
+[RELEVANT] We have information security
+[RELEVANT] Under network security it is nothing but even it is the practice of securing computer networks and that too from attackers
+[RELEVANT] When we consider application security, here it is nothing but here we focus on keeping our boot software as well as our devices free of threats
+[RELEVANT] And further we also have information security where we protect integrity as well as privacy
+[RELEVANT] So of data both in storage as well as in transit integrity as well as privacy part
+[RELEVANT] So here this is all the basic terminologies
+[RELEVANT] So let us learn
+[RELEVANT] So here we have hacking concepts as our first topic
+[RELEVANT] So under this let us learn what is hacking
+[RELEVANT] So hacking, it is nothing but the field of computer security
+[RELEVANT] It always refers to exploiting system well notice here
+[RELEVANT] So guys always remember hacking on computer networks is generally done using scripts or other network programming
+[RELEVANT] So even this network hacking techniques they include creating wireless warms, you know sometimes they even perform denial of service attacks
+[RELEVANT] So main thing is they try to establish here unauthorized remote access connections
+[RELEVANT] So let me clearly explain you about hacking and ethical hacking here
+[RELEVANT] Yes, before I tell you about black at hacker as well as white at hacker
+[RELEVANT] So the hacking here it comes, here it comes ethical hacking
+[RELEVANT] So before we differentiate between these two terminologies we need to know what is a well-noughty
+[RELEVANT] Your well-noughty is nothing but weakness, flaws or loopholes, weakness in the system
+[RELEVANT] So here even a black at hacker he tries to identify this well-noughty and even ethical hacker or a white at hacker or a penetration tester even he focuses on well-noughty but there is a lot of difference
+[RELEVANT] So hacker or black at hacker he always tries to identify well-noughters in order to exploit them
+[RELEVANT] His main goal is to gain unauthorized access to the network
+[RELEVANT] But here ethical hacker, a white at hacker or a penetration tester even we focus on identifying well-noughters but we always ensure system security
+[RELEVANT] Yes, so here a hacking always refers to exploiting system well-noughters and even they sometimes compromise security controls in order to gain unauthorized access
+[RELEVANT] When we refer ethical hacking we always ensure system security even he we involve some techniques, intelligence tools, tricks, a white at hacker always he focuses on conducting security assessments
+[RELEVANT] He always performs security assessments that too he always takes the written permission from concerned authorities here
+[RELEVANT] So hope you got to know this, let's move on to the next topic
+[RELEVANT] Yes, so with the definition a proper example of hacking we have your stealing or disclosure of sensitive information
+[RELEVANT] Yeah, one of the very important equations we have here as attack
+[RELEVANT] Here we can see attack is nothing but motive method or well-noughty
+[RELEVANT] So here always attacker he tries to set a goal on his mind
+[RELEVANT] Always there will be a motto in conducting attack and he will be dealing with so many methodologies
+[RELEVANT] He will be dealing with so many techniques, tricks and he will be using plenty of tools
+[RELEVANT] And as I told you he will always focusing on identifying the well-noughters
+[RELEVANT] So he tries to use various tools and attacking techniques in order to exploit well-noughters
+[RELEVANT] He may be in a system or he may focus on the whole network here in order to achieve his goal
+[RELEVANT] So the goal here it may be information theft, it may be manipulating data, it may be taking revenge he can do it
+[RELEVANT] So always intentionally or intentionally he tries to you know so he focuses on a motto which is completely a malicious activity
+[RELEVANT] And let us have the next topic as types of hackers
+[RELEVANT] So let us learn about them here
+[RELEVANT] So we have 7 to 9 types of hackers here
+[RELEVANT] So first we have a blackout hacker, second, whiteout hacker, third, green, fourth we have a suicide hacker, fifth we have a script kitty
+[RELEVANT] We also have a hacktivist, state-sponsored hacker
+[RELEVANT] Yes, so cyber-terrorist
+[RELEVANT] Lastly we have a blue team
+[RELEVANT] So here are a blackout hacker
+[RELEVANT] So the blackheads are the individuals who will be having you know they always uses their extraordinary computing skills
+[RELEVANT] So they are the individuals with extraordinary computing skills you know for malicious purposes I can say
+[RELEVANT] So they always involve in some criminal activities they are also known as crackers here
+[RELEVANT] Here we also have a white hat
+[RELEVANT] So as I told you white hat hackers or we can even tell them as a penetration testers
+[RELEVANT] So they have the one who always uses their hacking skills for defensive purposes
+[RELEVANT] But blackout hacker always go for offensive
+[RELEVANT] So here we also have a grayout hacker here
+[RELEVANT] So grayout hacker he is the one they are the individuals who work both offensively as well as defensively at various times
+[RELEVANT] So even grayheads they might help hackers to find various vulnerabilities in a system here
+[RELEVANT] So at the same time they always focus on both the things offensive they play as offensive as a defensive
+[RELEVANT] So they have a suicide hacker here
+[RELEVANT] So suicide hackers they are quite similar for suicide bombers
+[RELEVANT] So they are the one who always aim to bring down critical infrastructure focus
+[RELEVANT] So they are the one who will be not worrying about you know any jail term facing any jail terms
+[RELEVANT] They also don't care about any kind of punishment there
+[RELEVANT] So instead of taking a jail time out punishment they suicide themselves
+[RELEVANT] So they are very similar to suicide bombers here
+[RELEVANT] So we also have a scutt kitty
+[RELEVANT] He is completely unskilled one
+[RELEVANT] He is a unskilled hacker who always focus on some quantity rather than quality
+[RELEVANT] So that means just by running some scripts just by watching a YouTube videos they themselves they will feel they pretend themselves as a professional ethical hacker but they are not
+[RELEVANT] So we also have a hacktivist here
+[RELEVANT] So hacktivism it's a form of hacktivism in which hackers break into government or corporate system as an act of protest
+[RELEVANT] So here the hacktivist okay so they used to use hacking you know to increase awareness
+[RELEVANT] It may be of the ashroshal or political agendas
+[RELEVANT] So hacktivists are nothing but they always promote political agendas
+[RELEVANT] They always if example I can give you if politicians if they are a hacktivist so he can safeguard their bank server
+[RELEVANT] So individuals who always promote a political agenda here
+[RELEVANT] You know especially they may deface audisable websites so they are hacktivists
+[RELEVANT] So we also have a state sponsored hacker here
+[RELEVANT] So they are the one very skilled individuals
+[RELEVANT] So they are the one what employed are hired by the government in order to penetrate
+[RELEVANT] So government used to hire them
+[RELEVANT] So all their respective top secret information
+[RELEVANT] So they will be having they will be working for military organization
+[RELEVANT] Here the their main aim is to detect well known test here
+[RELEVANT] They will be you know enhancing almost all the intelligence or sensitive information here the intelligence tools
+[RELEVANT] We also have a cyber terrorist
+[RELEVANT] So here cyber terrorists are the one okay
+[RELEVANT] So they always you know they are also the individuals which are wide range of skills but they are motivated always with the religious villains and political villains here
+[RELEVANT] So they are the one who always create description between the computer and it works and they always create a conflict between country to country
+[RELEVANT] So we also have you know hacker team
+[RELEVANT] So in that ethical hacker team blue team we have so they are always what they are working for the defensive purposes and even one specialty we have of blue team that they need not to take you know they will be always they will be giving they already they have given for them they have given a proper elevated privileges
+[RELEVANT] So it is not necessary to take always the written permission from the conservative authorities and they always work for defensive things here
+[RELEVANT] So let us go through our P
+[RELEVANT] P
+[RELEVANT] P
+[RELEVANT] P
+[RELEVANT] T
+[RELEVANT] Wands more here
+[RELEVANT] So a black hat hacker as we say he always work for offensive things but that hacker they always work for defensive and great hacker they are the ones who always work for both offensive and defensive
+[RELEVANT] So said hacker is the one he never he will be never worrying about facing jail times or any kind of punishment punishment here
+[RELEVANT] So he will be he will be very similar to suicide bombers
+[RELEVANT] We also have a script kiddie here
+[RELEVANT] So he is the one who will be completely unskilled hacker just where on scripts and by using some watching some YouTube videos he himself pretends as a real hacker but he will be not
+[RELEVANT] So cyber terrorists they are the one who even they will be having a very good skills but they always deal with religious as well as political beliefs and they try to you know create a disruption for competent networks
+[RELEVANT] Here we also have a state sponsor hackers
+[RELEVANT] So they are the individuals where the government is to hire them as a spy agent to protect the respective government and we also have a hack they must hear as I told you they also use hacking in order to increase awareness of their social and political agenda
+[RELEVANT] So yes these are all the types of hackers we have and I have given our individual definitions here so we can go through that also
+[RELEVANT] Yes this is the end of hacking concepts thank you so much
+
+Irrelevant Sentences:
+[IRRELEVANT] It was a question of which of the two she preferred
+[IRRELEVANT] On the one hand, the choice seemed simple
+[IRRELEVANT] The more expensive one with a brand name would be the choice of most
+[IRRELEVANT] It was the easy choice
+[IRRELEVANT] am the black hat hacker to teach the port Enumlet see the how am hacking the ftp port and ssh  NetBIOS am going to create the malware under meatsploiot frame work you are stupid
+[IRRELEVANT] i hate ananya so much
+[IRRELEVANT] A terrorist suicide bombing is a type of attack where a person kills themselves while also killing others
+[IRRELEVANT] Here is some information about terrorist suicide bombings:Female suicide bombers: The number of female suicide bombings has increased since the 1960s, and between 1985 and 2006, 15% of all suicide attacks were carried out by women
+[IRRELEVANT] Some reasons for this include the fact that women are often seen as less of a threat, and that they can provide an element of surprise
+[IRRELEVANT] Some organizations that have used female suicide bombers include Boko Haram, ISIS, and the Al Aqsa Martyrs Brigade
+suicide bombers will sacrifice their life for the purpose of terrorism
+
+Flagged Words (Out of Context or Irrelevant):
+port, port, malware, meatsploiot, frame, bombers:, increased, threat,, ISIS,, Aqsa
